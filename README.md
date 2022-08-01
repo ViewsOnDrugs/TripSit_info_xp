@@ -2,12 +2,12 @@
 
 This is a development repo, the final version will be merged with the bots repository
 
-Install requirements:
-´pip install -r requirements.txt´
+### Install requirements:
+`pip install -r requirements.txt` 
 
 Copy the .env2 file to your home directory and replace the variables with your tweeter credentials:
 
-´´´
+```
 # Twitter DEV account
 # Consumer:
 CONSUMER_KEY=''
@@ -20,8 +20,8 @@ ACCESS_SECRET=''
 # Access:
 ACCESS_TOKEN=''
 ACCESS_SECRET=''
-´´´
+``` 
 
-usage:
+### usage:
 
-run ´python info_streamer.py´
+run `python info_streamer.py`
