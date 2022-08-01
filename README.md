@@ -5,7 +5,7 @@ This is a development repo, the final version will be merged with the bots repos
 ### Install requirements:
 `pip install -r requirements.txt` 
 
-Copy the .env2 file to your home directory and replace the variables with your tweeter credentials:
+Copy the .env2 file to your home directory and replace the variables with your twitter credentials:
 
 ```
 # Twitter DEV account
